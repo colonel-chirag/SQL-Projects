@@ -180,7 +180,7 @@ Voice-Based Transport Enquiry System
 
 While traveling, you may have come across a long queue of commuters waiting for the answers to their queries made by the staff of public transport. Creating this automated inquiry answering system will help you cut down a lot of time for the staff and commuters.
 
-Source Code – Voice-Based Transport Enquiry System
+Source Code – Voice-Based Transport Enquiry System https://github.com/haresrv/Voice-based-Transport-Enquiry-System.git
 
 Features needed – You can create such an automated inquiry system for various transport systems so that commuters’ queries will be addressed in a voice-based format.
 
@@ -195,7 +195,7 @@ Blood Donation System Database Project
 
 This is a system where the particulars of the patient, blood bank, data of the donor will be saved and will be interrelated with each other.
 
-Source Code – Download
+Source Code – Download https://drive.google.com/drive/folders/1W0jlBFWLl2K97rWaBhFD_0QETx2MKec0?usp=sharing 
 
 Feature needed –
 
